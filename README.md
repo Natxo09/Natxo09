@@ -86,7 +86,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 <a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 3"></a>
 <a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 4"></a>
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/@NatxoNetwork?sub_confirmation=1)
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NatxoNetwork?sub_confirmation=1)
 
 #
 
