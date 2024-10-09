@@ -46,10 +46,6 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 🟢 **Explore my Minecraft Mods on Modrinth** 🟢
 
-<div align="center">
-   <img src="https://i.imgur.com/KnNnUqZ.png" alt="Minecraft Banner" width="400"/>
-</div>
-
 <p align="left">
    <a href="https://modrinth.com/mod/tab-ping">
       <img alt="modrinth downloads" title="Tab Ping Downloads" src="https://img.shields.io/badge/Modrinth-Tab%20Ping-5fdd60?logo=modrinth&style=for-the-badge" />
@@ -77,9 +73,6 @@ I’m constantly looking for new ways to challenge myself and create innovative 
    </a>
 </p>
 
-<div align="center">
-   <img src="https://i.imgur.com/KsVtoPj.png" alt="Minecraft Divider" width="400"/>
-</div>
 
 
 ## 📺 Latest YouTube Videos
