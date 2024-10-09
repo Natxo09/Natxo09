@@ -17,7 +17,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 ---
 
-## 🛠️ Technologies I Use
+## ⛏️ Technologies I Use
 
 <img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -43,6 +43,12 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 <a href="https://github.com/Natxo09/CS2Settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Settings&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Settings"></a>
 
 ## 🛠️ Minecraft Mods
+
+🟢 **Explore my Minecraft Mods on Modrinth** 🟢
+
+<div align="center">
+   <img src="https://i.imgur.com/KnNnUqZ.png" alt="Minecraft Banner" width="400"/>
+</div>
 
 <p align="left">
    <a href="https://modrinth.com/mod/tab-ping">
@@ -70,6 +76,10 @@ I’m constantly looking for new ways to challenge myself and create innovative 
       <img alt="modrinth downloads count" title="Armor of Vitality Downloads" src="https://img.shields.io/modrinth/dt/armor-of-vitality?color=5fdd60&label=Downloads&logo=modrinth&style=for-the-badge" />
    </a>
 </p>
+
+<div align="center">
+   <img src="https://i.imgur.com/KsVtoPj.png" alt="Minecraft Divider" width="400"/>
+</div>
 
 
 ## 📺 Latest YouTube Videos
