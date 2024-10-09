@@ -4,6 +4,8 @@ I am a passionate Software Developer and Content Creator. My journey into develo
 
 I’m constantly looking for new ways to challenge myself and create innovative solutions that improve both user experiences and development efficiency.
 
+---
+
 ## 🛠️ Technologies I Use
 
 <img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
