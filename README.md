@@ -25,6 +25,22 @@
 <br/>
 
 <details open> 
+  <summary><h2>🛠️ Technologies I Use</h2></summary>
+
+  <p align="center">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
+  </p>
+
+</details>
+
+<details open> 
   <summary><h2>📘 Featured Projects</h2></summary>
 
   <p align="left">
@@ -42,18 +58,6 @@
 <a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 2"></a>
 <a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 3"></a>
 <a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 4"></a>
-
-</details>
-
-<details open> 
-  <summary><h2>🛠️ Technologies I Use</h2></summary>
-  
-  <p align="left">
-    <img alt="Swift" src="https://img.shields.io/badge/Swift-F05138.svg?logo=swift&logoColor=white" />
-    <img alt="C#" src="https://img.shields.io/badge/C%23-239120.svg?logo=c-sharp&logoColor=white" />
-    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white" />
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black" />
-  </p>
 
 </details>
 
