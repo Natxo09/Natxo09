@@ -4,8 +4,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Natxo/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Full-stack%20Developer;App%20Developer;Content%20Creator;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+  <h2 align="center">Hola, soy Natxo</h2>
+  <p align="center">Software Developer, Content Creator, and Hardware Enthusiast</p>
 </p>
 
 <!-- Social icons section -->
@@ -22,9 +22,9 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://www.youtube.com/@NatxoNetwork?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/app/youtube-stats-badges/subscribers-badge.php?channel_id=NatxoNetwork"/></a>
+    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC12345678?style=social"/></a>
   <a href="https://www.youtube.com/@NatxoNetwork">
-    <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/app/youtube-stats-badges/view-count-badge.php?channel_id=NatxoNetwork"/></a>
+    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC12345678?style=social"/></a>
 </p>
 
 <br/>
@@ -43,10 +43,10 @@
 <details open> 
   <summary><h2>📺 Latest YouTube Videos</h2></summary>
 
-<!-- YouTube Cards -->
-<a href="https://www.youtube.com/watch?v=12345"><img src="https://ytcards.demolab.com/?id=12345&title=How+to+Use+X&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="YouTube Video"></a>
-
-<a href="https://www.youtube.com/watch?v=67890"><img src="https://ytcards.demolab.com/?id=67890&title=Project+Y+Walkthrough&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="YouTube Video"></a>
+<a href="https://youtu.be/Gnsmn9GPX4k"><img src="https://ytcards.demolab.com/?id=Gnsmn9GPX4k&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 1"></a>
+<a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 2"></a>
+<a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 3"></a>
+<a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 4"></a>
 
 </details>
 
