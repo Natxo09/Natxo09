@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Natxo
 
-I am a passionate Software Developer and Content Creator. My journey into development started with simple scripting and evolved into full-scale applications, games, and system tools. Over the years, I have explored multiple technologies and platforms, ranging from mobile app development to backend infrastructure, always striving to learn and grow.
+I am a passionate Software Developer. My journey into development started with simple scripting and evolved into full-scale applications, tools/mods for games, and system tools. Over the years, I have explored multiple technologies and platforms, ranging from mobile app development to backend infrastructure, always striving to learn and grow.
 
 I’m constantly looking for new ways to challenge myself and create innovative solutions that improve both user experiences and development efficiency.
 
