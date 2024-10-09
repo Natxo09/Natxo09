@@ -23,9 +23,9 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 ## 📘 Counter Strike 2 Projects
 
 <a href="https://github.com/Natxo09/CS2Server-Creator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Server-Creator&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Server-Creator"></a>
-<a href="https://github.com/Natxo09/cs2-utility-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=cs2-utility-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cs2-utility-web"></a>
-<a href="https://github.com/Natxo09/star-calculator-cs2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=star-calculator-cs2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="star-calculator-cs2"></a>
-<a href="https://github.com/Natxo09/CS2Settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Settings&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Settings"></a>
+<a href="https://github.com/Natxo09/cs2-utility-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=cs2-utility-web&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="cs2-utility-web"></a>
+<a href="https://github.com/Natxo09/star-calculator-cs2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=star-calculator-cs2&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="star-calculator-cs2"></a>
+<a href="https://github.com/Natxo09/CS2Settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Settings&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Settings"></a>
 
 ## 📺 Latest YouTube Videos
 
