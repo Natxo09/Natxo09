@@ -17,7 +17,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 ---
 
-## 🛠️ Technologies I Use
+### 🛠️ Technologies I Use
 
 <img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
