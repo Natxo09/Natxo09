@@ -37,14 +37,14 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 #
 
-## 📘 Counter Strike 2 Projects
+### 📘 Counter Strike 2 Projects
 
 <a href="https://github.com/Natxo09/CS2Server-Creator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Server-Creator&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Server-Creator"></a>
 <a href="https://github.com/Natxo09/cs2-utility-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=cs2-utility-web&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="cs2-utility-web"></a>
 <a href="https://github.com/Natxo09/star-calculator-cs2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=star-calculator-cs2&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="star-calculator-cs2"></a>
 <a href="https://github.com/Natxo09/CS2Settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Settings&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Settings"></a>
 
-## ⛏️ Minecraft Mods
+### ⛏️ Minecraft Mods
 
 🟢 **Explore my Minecraft Mods on Modrinth** 🟢
 
@@ -77,14 +77,14 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 
 
-## 📺 Latest YouTube Videos
+### 📺 Latest YouTube Videos
 
 <a href="https://youtu.be/Gnsmn9GPX4k"><img src="https://ytcards.demolab.com/?id=Gnsmn9GPX4k&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 1"></a>
 <a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 2"></a>
 <a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 3"></a>
 <a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 4"></a>
 
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p>
   <img alt="Natxo's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Natxo09&show_icons=true&theme=github_dark" height="192px" />
