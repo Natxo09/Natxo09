@@ -17,7 +17,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 ---
 
-## ⛏️ Technologies I Use
+## 🛠️ Technologies I Use
 
 <img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
 <img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
@@ -42,7 +42,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 <a href="https://github.com/Natxo09/star-calculator-cs2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=star-calculator-cs2&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="star-calculator-cs2"></a>
 <a href="https://github.com/Natxo09/CS2Settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Settings&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Settings"></a>
 
-## 🛠️ Minecraft Mods
+## ⛏️ Minecraft Mods
 
 🟢 **Explore my Minecraft Mods on Modrinth** 🟢
 
