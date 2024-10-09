@@ -14,39 +14,31 @@
 
 <br/>
 
-<!-- Social badges section -->
+<!-- Technologies I Use -->
+<h2 align="center">🛠️ Technologies I Use</h2>
+
 <p align="center">
-  <a href="https://www.youtube.com/@NatxoNetwork?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://img.shields.io/youtube/channel/subscribers/UC12345678?style=social"/></a>
-  <a href="https://www.youtube.com/@NatxoNetwork">
-    <img alt="youtube views" title="YouTube views" src="https://img.shields.io/youtube/channel/views/UC12345678?style=social"/></a>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" alt="Astro" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin-right:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin-right:10px;" />
 </p>
 
 <br/>
 
 <details open> 
-  <summary><h2>🛠️ Technologies I Use</h2></summary>
-
-  <p align="center">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50"/>
-  </p>
-
-</details>
-
-<details open> 
-  <summary><h2>📘 Featured Projects</h2></summary>
+  <summary><h2>📘 Counter Strike 2 Projects</h2></summary>
 
   <p align="left">
-    <a href="https://github.com/Natxo/dididoit"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo&repo=dididoit&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Did I Do It"></a>
-    <a href="https://github.com/Natxo/armor-of-vitality"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo&repo=armor-of-vitality&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Armor of Vitality"></a>
-    <a href="https://github.com/Natxo/hardware-monitor"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo&repo=hardware-monitor&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="Hardware Monitor"></a>
+    <a href="https://github.com/Natxo09/CS2Server-Creator"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Server-Creator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Server-Creator"></a>
+    <a href="https://github.com/Natxo09/cs2-utility-web"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=cs2-utility-web&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="cs2-utility-web"></a>
+    <a href="https://github.com/Natxo09/star-calculator-cs2"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=star-calculator-cs2&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="star-calculator-cs2"></a>
+    <a href="https://github.com/Natxo09/CS2Settings"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=CS2Settings&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="CS2Settings"></a>
   </p>
 
 </details>
