@@ -77,7 +77,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
    </a>
 </p>
 
-
+#
 
 ### 📺 Latest YouTube Videos
 
@@ -85,6 +85,11 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 <a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 2"></a>
 <a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 3"></a>
 <a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 4"></a>
+
+      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtZiFj0zO3LWaqReaA-JzSQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/c/fknight">
+#
 
 ### 📊 GitHub Stats
 
