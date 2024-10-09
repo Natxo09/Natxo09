@@ -44,11 +44,23 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 ## 🛠️ Minecraft Mods
 
-- [Tab Ping](https://modrinth.com/mod/tab-ping)
-- [Simple HUD](https://modrinth.com/mod/simple-hud)
-- [Ultimate HUD](https://modrinth.com/mod/ultimatehud)
-- [Counter Mod](https://modrinth.com/mod/counter-mod)
-- [Armor of Vitality](https://modrinth.com/mod/armor-of-vitality)
+<p align="left">
+   <a href="https://modrinth.com/mod/tab-ping">
+      <img alt="modrinth downloads" title="Tab Ping Downloads" src="https://img.shields.io/badge/Modrinth-Tab%20Ping-5fdd60?logo=modrinth&style=for-the-badge" />
+   </a>
+   <a href="https://modrinth.com/mod/simple-hud">
+      <img alt="modrinth downloads" title="Simple HUD Downloads" src="https://img.shields.io/badge/Modrinth-Simple%20HUD-5fdd60?logo=modrinth&style=for-the-badge" />
+   </a>
+   <a href="https://modrinth.com/mod/ultimatehud">
+      <img alt="modrinth downloads" title="Ultimate HUD Downloads" src="https://img.shields.io/badge/Modrinth-Ultimate%20HUD-5fdd60?logo=modrinth&style=for-the-badge" />
+   </a>
+   <a href="https://modrinth.com/mod/counter-mod">
+      <img alt="modrinth downloads" title="Counter Mod Downloads" src="https://img.shields.io/badge/Modrinth-Counter%20Mod-5fdd60?logo=modrinth&style=for-the-badge" />
+   </a>
+   <a href="https://modrinth.com/mod/armor-of-vitality">
+      <img alt="modrinth downloads" title="Armor of Vitality Downloads" src="https://img.shields.io/badge/Modrinth-Armor%20of%20Vitality-5fdd60?logo=modrinth&style=for-the-badge" />
+   </a>
+</p>
 
 ## 📺 Latest YouTube Videos
 
