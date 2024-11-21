@@ -14,7 +14,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
       <a href="https://github.com/Natxo09?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Natxo09?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://modrinth.com/user/Natxo">
-         <img alt="Modrinth Total Downloads" title="Follow me on Modrinth" src="https://img.shields.io/badge/Modrinth-Total%20Downloads%206K-5fdd60?logo=modrinth&style=for-the-badge" /></a>
+         <img alt="Modrinth Total Downloads" title="Follow me on Modrinth" src="https://img.shields.io/badge/Modrinth-Total%20Downloads%207.5K-5fdd60?logo=modrinth&style=for-the-badge" /></a>
    </p>
 
 ---
