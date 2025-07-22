@@ -42,6 +42,8 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 ### <img src="https://eris.natxo.dev/iconnobg.png" alt="Eris Logo" width="25" style="vertical-align: middle;"> Eris.
 
+**Eris** is a private AI chat application that runs entirely on your device using Apple's MLX framework. Named after the dwarf planet that challenged our understanding of the solar system, Eris challenges the notion that AI must live in the cloud.
+
 <a href="https://github.com/Natxo09/Eris."><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=Eris.&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="Eris."></a>
 <a href="https://github.com/Natxo09/erislanding"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=erislanding&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="erislanding"></a>
 
