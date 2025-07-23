@@ -52,17 +52,35 @@ Astro                    ████░░░░░░░░░░░░░░�
 
 #
 
-### 💻 My Setup
+### 🖥️ Infrastructure & Services
 
-**Main Workstation**
-- MacBook Pro M4 Pro - 48GB RAM, 512GB SSD
-
-**Primary Server**
-- RTX 4070 Ti, Ryzen 7 7700X, 32GB DDR5
-- Ubuntu Server with: Dokploy, Portainer, Pi-Hole, Uptime Kuma, Umami, Ollama
-
-**Backup Server**
-- RTX 2060 Super, Ryzen 7 3700X, 32GB DDR4
+```yaml
+🍎 Main Workstation:
+  Device: MacBook Pro M4 Pro
+  Memory: 48GB Unified Memory
+  Storage: 512GB SSD
+  
+🚀 Primary Server:
+  Hardware:
+    GPU: NVIDIA RTX 4070 Ti
+    CPU: AMD Ryzen 7 7700X
+    RAM: 32GB DDR5
+    OS: Ubuntu Server 22.04
+    
+  Services:
+    🐳 Dokploy      → Application deployment platform
+    🐋 Portainer    → Docker management UI
+    🛡️ Pi-Hole      → Network-wide ad blocker
+    📊 Uptime Kuma  → Service monitoring
+    📈 Umami        → Privacy-focused analytics
+    🤖 Ollama       → Local LLM runner
+    
+💾 Backup Server:
+  Hardware:
+    GPU: NVIDIA RTX 2060 Super
+    CPU: AMD Ryzen 7 3700X
+    RAM: 32GB DDR4
+```
 
 #
 
