@@ -14,7 +14,7 @@ I’m constantly looking for new ways to challenge myself and create innovative 
       <a href="https://github.com/Natxo09?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Natxo09?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
       <a href="https://modrinth.com/user/Natxo">
-         <img alt="Modrinth Total Downloads" title="Follow me on Modrinth" src="https://img.shields.io/badge/Modrinth-Total%20Downloads%208.8K-5fdd60?logo=modrinth&style=for-the-badge" /></a>
+         <img alt="Modrinth Total Downloads" title="Follow me on Modrinth" src="https://img.shields.io/badge/Modrinth-Total%20Downloads%2015.31K-5fdd60?logo=modrinth&style=for-the-badge" /></a>
    </p>
 
 ---
@@ -84,10 +84,10 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 ### 📺 Latest YouTube Videos
 
-<a href="https://youtu.be/Gnsmn9GPX4k"><img src="https://ytcards.demolab.com/?id=Gnsmn9GPX4k&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 1"></a>
-<a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 2"></a>
-<a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 3"></a>
-<a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&title=Video+Title&lang=en&timestamp=1696868769&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="Video 4"></a>
+<a href="https://youtu.be/Gnsmn9GPX4k"><img src="https://ytcards.demolab.com/?id=Gnsmn9GPX4k&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 1"></a>
+<a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 2"></a>
+<a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 3"></a>
+<a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 4"></a>
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NatxoNetwork?sub_confirmation=1)
 
@@ -99,3 +99,5 @@ I’m constantly looking for new ways to challenge myself and create innovative 
   <img alt="Natxo's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Natxo09&show_icons=true&theme=github_dark" height="192px" />
   <img alt="Natxo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Natxo09&langs_count=8&layout=compact&theme=github_dark" height="192px"/>
 </p>
+
+<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
