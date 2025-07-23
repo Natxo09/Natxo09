@@ -42,8 +42,6 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 <img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
-#
-
 ```text
 React                    ████████████████████░░░░░   80.50 % 
 Python                   ████████████░░░░░░░░░░░░░   48.20 % 
@@ -51,6 +49,20 @@ TypeScript               ████████████░░░░░░�
 Swift                    ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
 Astro                    ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
 ```
+
+#
+
+### 💻 My Setup
+
+**Main Workstation**
+- MacBook Pro M4 Pro - 48GB RAM, 512GB SSD
+
+**Primary Server**
+- RTX 4070 Ti, Ryzen 7 7700X, 32GB DDR5
+- Ubuntu Server with: Dokploy, Portainer, Pi-Hole, Uptime Kuma, Umami, Ollama
+
+**Backup Server**
+- RTX 2060 Super, Ryzen 7 3700X, 32GB DDR4
 
 #
 
