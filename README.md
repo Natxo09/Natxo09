@@ -40,7 +40,11 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 #
 
-### 📈 Activity Graph
+### 📊 Most Used Languages
+
+<img alt="Natxo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Natxo09&langs_count=10&layout=donut&theme=github_dark" />
+
+#
 
 <img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
