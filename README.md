@@ -52,8 +52,6 @@ Astro                    ████░░░░░░░░░░░░░░�
 
 #
 
-### 🖥️ Infrastructure & Services
-
 ```yaml
 🍎 Main Workstation:
   Device: MacBook Pro M4 Pro
@@ -66,6 +64,13 @@ Astro                    ████░░░░░░░░░░░░░░�
     CPU: AMD Ryzen 7 7700X
     RAM: 32GB DDR5
     OS: Ubuntu Server 22.04
+    
+  Storage:
+    NVMe1: Kingston 2TB M.2
+    NVMe2: Samsung 990 Pro 1TB
+    SSD1:  Samsung 870 QVO 1TB SATA3
+    HDD1:  Seagate BarraCuda 2TB (RAID 0)
+    HDD2:  Seagate BarraCuda 2TB (RAID 0)
     
   Services:
     🐳 Dokploy      → Application deployment platform
@@ -80,6 +85,14 @@ Astro                    ████░░░░░░░░░░░░░░�
     GPU: NVIDIA RTX 2060 Super
     CPU: AMD Ryzen 7 3700X
     RAM: 32GB DDR4
+    
+  Storage:
+    NVMe: Kingston 1TB M.2
+    SSD1: Samsung 870 QVO 1TB SATA3
+    HDD1: Seagate BarraCuda 2TB (RAID 1)
+    HDD2: Seagate BarraCuda 2TB (RAID 1)
+    HDD3: Seagate BarraCuda 2TB (RAID 1)
+    HDD4: Seagate BarraCuda 2TB (RAID 1)
 ```
 
 #
