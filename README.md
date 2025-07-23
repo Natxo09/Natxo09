@@ -40,13 +40,19 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 #
 
-### 📊 Most Used Languages
-
-<img alt="Natxo's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natxo09&theme=dark&hide_border=true" />
+<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
 #
 
-<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+### 📊 Most Used
+
+```text
+React                    ████████████████████░░░░░   80.50 % 
+Python                   ████████████░░░░░░░░░░░░░   48.20 % 
+TypeScript               ████████████░░░░░░░░░░░░░   47.80 % 
+Swift                    ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
+Astro                    ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+```
 
 #
 
