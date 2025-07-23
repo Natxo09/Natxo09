@@ -40,6 +40,12 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 #
 
+### 📈 Activity Graph
+
+<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+
+#
+
 ### <img src="https://eris.natxo.dev/iconnobg.png" alt="Eris Logo" width="25" style="vertical-align: middle;"> Eris.
 
 **Eris** is a private AI chat application that runs entirely on your device using Apple's MLX framework. Named after the dwarf planet that challenged our understanding of the solar system, Eris challenges the notion that AI must live in the cloud.
@@ -91,13 +97,3 @@ I’m constantly looking for new ways to challenge myself and create innovative 
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NatxoNetwork?sub_confirmation=1)
 
-#
-
-### 📊 GitHub Stats
-
-<p>
-  <img alt="Natxo's GitHub Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=Natxo09&show_icons=true&theme=github_dark" height="192px" />
-  <img alt="Natxo's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Natxo09&langs_count=8&layout=compact&theme=github_dark" height="192px"/>
-</p>
-
-<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
