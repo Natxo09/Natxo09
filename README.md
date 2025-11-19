@@ -1,8 +1,8 @@
 # 👋 Hello, I'm Natxo
 
-I am a passionate Software Developer. My journey into development started with simple scripting and evolved into full-scale applications, tools/mods for games, and system tools. Over the years, I have explored multiple technologies and platforms, ranging from mobile app development to backend infrastructure, always striving to learn and grow.
+I'm a Software Developer from Spain. My journey into tech started unconventionally—managing game servers at 12, then developing Minecraft mods with Java at 14. That hands-on experience shaped my approach to full-stack development, where I now build complete solutions combining frontend, backend, and systems knowledge.
 
-I’m constantly looking for new ways to challenge myself and create innovative solutions that improve both user experiences and development efficiency.
+Currently diving into SEO optimization and building open-source tools designed for self-hosting on Linux servers or Docker containers. I focus on creating production-ready solutions that developers can deploy on their own infrastructure.
 
    <p align="left">
       <a href="https://www.youtube.com/@NatxoNetwork?sub_confirmation=1">
