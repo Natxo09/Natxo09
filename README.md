@@ -21,17 +21,14 @@ Currently diving into SEO optimization and building open-source tools designed f
 
 ### 🛠️ Technologies I Use
 
-<img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
-<img align="left" alt="C#" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-<img align="left" alt="JavaScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Astro" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="Tailwind CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img align="left" alt="TypeScript" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Swift" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" />
+<img align="left" alt="Python" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<img align="left" alt="Rust" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" />
+<img align="left" alt="Go" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
 <img align="left" alt="MySQL" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-<img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
 <img align="left" alt="Linux" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="macOS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" />
 <img align="left" alt="Git" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
@@ -43,49 +40,63 @@ Currently diving into SEO optimization and building open-source tools designed f
 <img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
 ```text
-React                    ████████████████████░░░░░   80.50 % 
-Python                   ████████████░░░░░░░░░░░░░   48.20 % 
-TypeScript               ████████████░░░░░░░░░░░░░   47.80 % 
-Swift                    ██████░░░░░░░░░░░░░░░░░░░   25.40 % 
-Astro                    ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+React                    ████████████████████░░░░░   80.50 %
+TypeScript               ████████████████░░░░░░░░░   65.30 %
+Python                   ████████████░░░░░░░░░░░░░   48.20 %
+Swift                    ██████████░░░░░░░░░░░░░░░   40.20 %
+Rust                     ████████░░░░░░░░░░░░░░░░░   32.40 %
+Go                       ██████░░░░░░░░░░░░░░░░░░░   24.10 %
 ```
 
 #
 
 ```yaml
-🍎 Main Workstation:
+Main Workstation:
   Device: MacBook Pro M4 Pro
   Memory: 48GB Unified Memory
   Storage: 512GB SSD
-  
-🚀 Primary Server:
+
+Gaming/Dev PC:
+  Hardware:
+    GPU: MSI GeForce RTX 5080 GAMING TRIO OC 16GB GDDR7
+    CPU: AMD Ryzen 7 9800X3D
+    Motherboard: MSI MPG X870E CARBON WIFI
+    RAM: Corsair Vengeance DDR5 6400MHz 32GB (2x16GB) CL36
+    Cooler: NZXT Kraken Elite 360 Kit
+    PSU: Seasonic VERTEX PX-1000 1000W 80+ Platinum
+    Case: NZXT H9 Flow (Black)
+    OS: Windows 11 Pro
+
+Primary Server:
   Hardware:
     GPU: NVIDIA RTX 4070 Ti
     CPU: AMD Ryzen 7 7700X
     RAM: 32GB DDR5
     OS: Ubuntu Server 22.04
-    
+
   Storage:
     NVMe1: Kingston 2TB M.2
     NVMe2: Samsung 990 Pro 1TB
     SSD1:  Samsung 870 QVO 1TB SATA3
     HDD1:  Seagate BarraCuda 2TB (RAID 0)
     HDD2:  Seagate BarraCuda 2TB (RAID 0)
-    
+
   Services:
-    🐳 Dokploy      → Application deployment platform
-    🐋 Portainer    → Docker management UI
-    🛡️ Pi-Hole      → Network-wide ad blocker
-    📊 Uptime Kuma  → Service monitoring
-    📈 Umami        → Privacy-focused analytics
-    🤖 Ollama       → Local LLM runner
-    
-💾 Backup Server:
+    Dokploy     → Application deployment platform
+    Dozzle      → Real-time Docker log viewer
+    AdGuard     → Network-wide ad blocker
+    Uptime Kuma → Service monitoring
+    Rybbit      → Privacy-focused analytics
+    Ollama      → Local LLM runner
+    RustFS      → S3-compatible object storage
+    Beszel      → Lightweight server monitoring
+
+Backup Server:
   Hardware:
     GPU: NVIDIA RTX 2060 Super
     CPU: AMD Ryzen 7 3700X
     RAM: 32GB DDR4
-    
+
   Storage:
     NVMe: Kingston 1TB M.2
     SSD1: Samsung 870 QVO 1TB SATA3
