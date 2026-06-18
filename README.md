@@ -2,10 +2,6 @@ Always building something
 
 ---
 
-<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-
-#
-
 ```yaml
 Main Workstation:
   Device: MacBook Pro M4 Pro
@@ -70,4 +66,8 @@ Backup Server:
 
 <a href="https://github.com/Natxo09/Eris."><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=Eris.&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="Eris."></a>
 <a href="https://github.com/Natxo09/erislanding"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=Natxo09&repo=erislanding&theme=github_dark&bg_color=1F222E&hide_border=true&icon_color=F8D866&show_icons=false" alt="erislanding"></a>
+
+#
+
+<img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
 
