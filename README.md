@@ -1,21 +1,8 @@
-# 👋 Hello, I'm Natxo
+# Always building something
 
 I'm a Software Developer from Spain. My journey into tech started unconventionally—managing game servers at 12, then developing Minecraft mods with Java at 14. That hands-on experience shaped my approach to full-stack development, where I now build complete solutions combining frontend, backend, and systems knowledge.
 
 Currently diving into SEO optimization and building open-source tools designed for self-hosting on Linux servers or Docker containers. I focus on creating production-ready solutions that developers can deploy on their own infrastructure.
-
-   <p align="left">
-      <a href="https://www.youtube.com/@NatxoNetwork?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCtZiFj0zO3LWaqReaA-JzSQ?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
-      <a href="https://www.youtube.com/@NatxoNetwork">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UCtZiFj0zO3LWaqReaA-JzSQ?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
-      <a href="https://github.com/Natxo09?tab=followers">
-         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/Natxo09?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-      <a href="https://github.com/Natxo09?tab=repositories&sort=stargazers">
-         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/Natxo09?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
-      <a href="https://modrinth.com/user/Natxo">
-         <img alt="Modrinth Total Downloads" title="Follow me on Modrinth" src="https://img.shields.io/badge/Modrinth-Total%20Downloads%2015.31K-5fdd60?logo=modrinth&style=for-the-badge" /></a>
-   </p>
 
 ---
 
@@ -41,15 +28,6 @@ Currently diving into SEO optimization and building open-source tools designed f
 #
 
 <img alt="Natxo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Natxo09&theme=github-dark&hide_border=true&bg_color=0D1117" width="100%"/>
-
-```text
-React                    ████████████████████░░░░░   80.50 %
-TypeScript               ████████████████░░░░░░░░░   65.30 %
-Python                   ████████████░░░░░░░░░░░░░   48.20 %
-Swift                    ██████████░░░░░░░░░░░░░░░   40.20 %
-Rust                     ████████░░░░░░░░░░░░░░░░░   32.40 %
-Go                       ██████░░░░░░░░░░░░░░░░░░░   24.10 %
-```
 
 #
 
@@ -150,15 +128,4 @@ Backup Server:
       <img alt="modrinth downloads count" title="Armor of Vitality Downloads" src="https://img.shields.io/modrinth/dt/armor-of-vitality?color=5fdd60&label=Downloads&logo=modrinth&style=for-the-badge" />
    </a>
 </p>
-
-#
-
-### 📺 Latest YouTube Videos
-
-<a href="https://youtu.be/Gnsmn9GPX4k"><img src="https://ytcards.demolab.com/?id=Gnsmn9GPX4k&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 1"></a>
-<a href="https://youtu.be/rnVWrO7Q9KI"><img src="https://ytcards.demolab.com/?id=rnVWrO7Q9KI&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 2"></a>
-<a href="https://youtu.be/GicrDHGtOI4"><img src="https://ytcards.demolab.com/?id=GicrDHGtOI4&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 3"></a>
-<a href="https://youtu.be/UBP277iUofU"><img src="https://ytcards.demolab.com/?id=UBP277iUofU&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5" alt="Video 4"></a>
-
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@NatxoNetwork?sub_confirmation=1)
 
